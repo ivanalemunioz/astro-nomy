@@ -28,8 +28,8 @@ export default defineConfig({
     db(),
     simpleStackForm(),
   ],
-  output: "hybrid",
-  adapter: vercel({
-    analytics: true,
-  }),
+  output: "static",
+  // adapter: vercel({
+  //   analytics: true,
+  // }),
 });

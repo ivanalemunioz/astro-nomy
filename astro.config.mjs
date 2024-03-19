@@ -10,7 +10,7 @@ import { defineConfig } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://astro-nomy.vercel.app",
+  site: "https://master.d2d6nm464xuoqs.amplifyapp.com",
   integrations: [
     mdx({
       syntaxHighlight: "shiki",
